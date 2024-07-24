@@ -3,7 +3,7 @@
 
 import PackageDescription
 
-private let artifactVersion = "1.11.7"
+private let artifactVersion = "1.11.8"
 
 let package = Package(
     name: "AdPlayerSDK",
